@@ -11,7 +11,7 @@ This project is the result of the collaboration of 8 people who worked synergist
 
 * **Aloise Christian** - [GitHub](https://github.com/aloisechristian)
 * **Bianco Simone**
-* **Fumo Salvatore**
+* **Fumo Salvatore** - [LinkedIn](https://www.linkedin.com/in/salvatorefumo?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 * **Gianfrancesco Paola**
 * **Khawaja Fariha**
 * **Muhammad Haris**
